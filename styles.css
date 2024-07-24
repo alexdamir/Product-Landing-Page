@@ -153,11 +153,11 @@
     height: 30px;
     margin: 15px 0;
     border: 0;
-    background-color: #f1c40f;
+    background-color: #0ff1698d;
   }
   
   #hero input[type='submit']:hover {
-    background-color: orange;
+    background-color: rgb(127, 245, 68);
     transition: background-color 1s;
   }
   
@@ -177,7 +177,7 @@
     justify-content: center;
     height: 125px;
     width: 20vw;
-    color: darkorange;
+    color: rgb(65, 227, 133);
   }
   
   @media (max-width: 550px) {
@@ -263,12 +263,12 @@
   .product > button {
     border: 0;
     margin: 15px 0;
-    background-color: #f1c40f;
+    background-color: #0ff1698d;
     font-weight: 400;
   }
   
   .product > button:hover {
-    background-color: orange;
+    background-color:  rgb(127, 245, 68);
     transition: background-color 1s;
   }
   
