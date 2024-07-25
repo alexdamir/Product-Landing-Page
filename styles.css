@@ -161,6 +161,9 @@
     transition: background-color 1s;
   }
   
+  .cakes {
+    width: 100%; margin: 0 auto; 
+  }
   @media (max-width: 650px) {
     #hero {
       margin-top: 120px;
